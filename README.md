@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leosll000
+- 👋 Hi, I’m Leonardo
 - 👀 I’m interested in programation and videogames
 - 🌱 I’m currently learning learn languajes of programation and enginnering
 - 💞️ I’m looking to collaborate on ...
